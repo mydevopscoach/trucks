@@ -19,14 +19,14 @@
 
 	<dependencies>
 
-		<!-- Unit Test -->
+		<!-- Unit Test class -->
 		<dependency>
 			<groupId>junit</groupId>
 			<artifactId>junit</artifactId>
 			<version>${junit.version}</version>
 		</dependency>
 
-		<!-- Spring Core -->
+		<!-- Spring Core Framework-->
 		<dependency>
 			<groupId>org.springframework</groupId>
 			<artifactId>spring-core</artifactId>
